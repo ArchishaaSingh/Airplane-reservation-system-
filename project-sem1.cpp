@@ -162,15 +162,11 @@ class info
                          ticket data[50];
                          int n;
                          
-                         int total;
+                      
                      
 		public:
                         
-                        int choice1;
-						info() 
-						{ 
-							n=0; 
-						}
+                        
                         void input();
                        	void fare();
                         void output();
